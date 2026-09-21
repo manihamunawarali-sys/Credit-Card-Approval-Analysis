@@ -1,6 +1,6 @@
 # Credit Card Approval Analysis and Prediction
 
-**Live App:** https://credit-card-approval-analysis-prediction-xdwbrfcc99wgbi4hsyudt.streamlit.app/
+**Live App:** https://credit-card-approval-analysis-ncbjhmrljwbgybbfniasna.streamlit.app/
 **Type:** Internship Project
 **Author:** Maniha Munawar
 
